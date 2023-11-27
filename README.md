@@ -1,6 +1,6 @@
 # Python-is-Fun
 
-![Python Logo](https://c0.klipartz.com/pngpicture/997/63/gratis-png-programacion-del-lenguaje-de-programacion-python-logo-programacion-informatica.png)
+![Python Logo](https://logonoid.com/images/python-logo.png)
 
 Welcome to Python-is-Fun! This repository is dedicated to providing a collection of mini Python tasks, games, and quizzes for practicing and enhancing your Python skills, especially for beginners. The goal is to make learning Python an enjoyable experience.
 
