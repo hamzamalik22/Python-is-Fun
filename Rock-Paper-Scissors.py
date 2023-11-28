@@ -1,3 +1,4 @@
+# Uses Random Module for random values
 import random as rd
 
 print("Rock,Paper,Scissor\n")
@@ -26,15 +27,18 @@ def theGame(pl,cp):
 # The Game Structure
 i = 1
 while(i<=5):
-  # Asking for Player Response
+  # Asking for Player Responses
+
   print("            1=Rock , 2=Paper & 3= Scissor\n ")
   print()
   action = int(input(f"{i}. Enter your Action : "))
-  # Making Computer Part usibg random
+  # Making Computer Part using random
+
   cp_actions = ['Rock','Paper','Scissor','Paper','Scissor','Rock','Scissor','Paper','Rock']
   computer = rd.choice(cp_actions)
   cp = ''.join(computer)
 
+# Conditionals
   if(action==1):
     player = "Rock"
     computer_action = cp
@@ -70,4 +74,7 @@ while(i<=5):
   i += 1
 
 print(f"\nFinal Scores - Player: {player_score}, Computer: {computer_score}, Draw: {draw_games}")
+
+# Enjoy 
+# @Hamzamalik
 
