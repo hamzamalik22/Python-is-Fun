@@ -9,9 +9,12 @@ Welcome to Python-is-Fun! This repository is dedicated to providing a collection
 1. **Python Quiz Game:**
    - Test your Python knowledge with our interactive quiz game. Answer questions related to Python syntax, concepts, and more.
 
-1. **Rock Paper Scissors Game:**
+2. **Rock Paper Scissors Game:**
    - Play the classic Rock Paper Scissors game against the computer. Sharpen your decision-making skills!
 
+3. **Hitman Code Language:**
+   - Explore the world of secret languages with our Hitman Code Language generator. Code and decode messages using this fun and mysterious language.
+   
 ## Getting Started
 
 1. Clone the repository:
