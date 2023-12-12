@@ -14,6 +14,9 @@ Welcome to Python-is-Fun! This repository is dedicated to providing a collection
 
 3. **Hitman Code Language:**
    - Explore the world of secret languages with our Hitman Code Language generator. Code and decode messages using this fun and mysterious language.
+
+4. **Greetings App:**
+   -This Program retrieves and prints the current time in hours, minutes, and seconds, and then outputs a corresponding greeting based on the time of day: "Good morning," "Good afternoon," "Good evening," or "Good night. Have sweet dreams."
    
 ## Getting Started
 
